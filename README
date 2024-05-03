@@ -1,0 +1,6 @@
+Random stuff I've done with code and birds. As of writing this mostly some messing with the eBird API and
+playing with image recognition of bird species based on a Kaggle dataset of birds.
+
+Currently not in a state to reproduce the environment I'm working in as it's missing data
+and a specification of required libraries. So don't try to use it. If I have something I want reproducible
+I would put it in a different repository.

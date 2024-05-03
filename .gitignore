@@ -1,0 +1,9 @@
+# environment data
+bird-data/*
+python/venv
+
+# specific configuration
+DO-NOT-COMMIT/*
+
+# filetypes I don't want to commit
+*.pyc
